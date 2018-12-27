@@ -1,5 +1,5 @@
 # Useful-Toolkit
-## Useful Toolkit on work ( Android and Unity3D C#)
+## Useful Toolkit on work (Android and Unity3D)
 
 * ### **[Unity 3D](Unity3D)**
     > ### 1. [zxing](Unity3D/Zxing)                :   QRCode
